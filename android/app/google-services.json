@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548027465746",
+    "project_id": "jurysisauth",
+    "storage_bucket": "jurysisauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548027465746:android:59570bcb331953a3ad98cb",
+        "android_client_info": {
+          "package_name": "com.example.signin_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0mtAEMBXV3Nwyy8E_02SwEKMbMkvHlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
